@@ -37,5 +37,4 @@ for (i = 0; array && i < size; ++i) // Iterate over each element in the array
 
 
 return (-1); // If no match found then change it to -1
-Copy
 }
